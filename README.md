@@ -6,6 +6,8 @@ In an [article on dev.to](https://dev.to/aunyks/lets-build-the-tiniest-blockchai
 
 This is a port of the code from that article to PHP.
 
+You can also check another PHP port from [Niels Braczek ](https://github.com/GreenCape/SnakeCoin)
+
 ## Try It!
 
 To run the demo, just type
@@ -79,5 +81,9 @@ The output will be similar to
 
 In this implementation, the `hash()` function is used
 with the `SHA256` algorithm
+
+## Credit
+Documentation Credit - Niels Braczek 
+Original Source - [README on the repo](https://github.com/GreenCape/SnakeCoin)
 
 
